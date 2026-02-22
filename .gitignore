@@ -1,0 +1,11 @@
+# Database
+*.db
+
+# Large datasets
+data/
+
+# Logs
+logs/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
